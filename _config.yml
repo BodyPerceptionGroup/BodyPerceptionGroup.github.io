@@ -7,7 +7,7 @@ name:               "Body Perception Group"
 title:              "Body Perception Group at Sun-yat Sen University"
 
 # URL
-url:                http://nkliuyifang.github.io
+url:                https://github.com/BodyPerceptionGroup.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
