@@ -1,4 +1,4 @@
-## Editing the lab website
+## Editing the bpg website
 
 Below, we explain how to edit the lab webpage
 
