@@ -3,11 +3,11 @@
 # # # # # # # #
 
 # Basic
-name:               "Body Perception Group"
-title:              "Body Perception Group at Sun-yat Sen University"
+name:               "Human Perception Lab"
+title:              "Human Perception Lab at Sun-yat Sen University"
 
 # URL
-url:                https://github.com/BodyPerceptionGroup.github.io
+url:                https://github.com/HumanPerceptionLab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
