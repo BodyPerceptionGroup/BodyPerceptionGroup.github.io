@@ -1,5 +1,5 @@
 ---
-name: Yi Zhangg (张毅)
+name: Yi Zhang (张毅)
 position: visitingstudent
 avatar: zy.jpg
 joined: 2021
