@@ -1,0 +1,63 @@
+# # # # # # # #
+#    L M Y    #
+# # # # # # # #
+
+# Basic
+name:               "Body Perception Group"
+title:              "Body Perception Group at Sun-yat Sen University"
+
+# URL
+url:                http://nkliuyifang.github.io
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "about"
+    href:           "/about"
+  - name:           "people"
+    href:           "/people"
+  - name:           "publications"
+    href:           "/publication"
+#  - name:           "blog"
+#    href:           "/blog"
+#  - name:           "resources"
+#    href:           "/resources"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
