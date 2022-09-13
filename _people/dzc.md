@@ -1,0 +1,16 @@
+---
+name: Zhichao Deng (邓智超)
+position: mastercandidate
+avatar: dzc.jpg
+joined: 2022
+---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+
+**研究方向**
+- 三维人体行为分析
+
+**个人简介**
+- 本科毕业于中南大学机电工程学院
+- 湖南永州人，曾获中南大学优秀毕业生等荣誉
+
