@@ -7,6 +7,12 @@ For those interested in numbers, see Mengyuan Liu's ([google scholar citations p
 
 <hr>
 
+### 2023
+
+_Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition_<br>
+Mengyuan Liu, Fanyang Meng, Chen Chen, Songtao Wu<br>
+AAAI Conference on Artificial Intelligence (AAAI), 2023 <a href = "documents/Novel_Motion_Patterns_Matter_for_Practical_Skeleton_based_Action_Recognition.pdf" target="_blank"><font>pdf</font></a>
+
 ### 2022
 
 _Contrastive Learning from Extremely Augmented Skeleton Sequences for Self-supervised Action Recognition_<br>
