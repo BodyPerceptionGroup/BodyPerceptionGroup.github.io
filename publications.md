@@ -11,7 +11,7 @@ For those interested in numbers, see Mengyuan Liu's ([google scholar citations p
 
 _Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition_<br>
 Mengyuan Liu, Fanyang Meng, Chen Chen, Songtao Wu<br>
-AAAI Conference on Artificial Intelligence (AAAI), 2023 <a href = "documents/AAAI2023.pdf" target="_blank"><font>[pdf]</font></a>
+AAAI Conference on Artificial Intelligence (AAAI), 2023 <a href = "/documents/AAAI2023.pdf" target="_blank"><font>[pdf]</font></a>
 
 ### 2022
 
